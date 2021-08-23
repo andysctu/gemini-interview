@@ -7,9 +7,9 @@
 
 ### Files
 
-* main.go - start here, defines service endpoints
-* mixer/mixer.go - main logic for the `/getDepositAddressForMixing` endpoint
-* jobcoin_gateway/jobcoin_gateway.go - contains functions to interact with the Jobcoin API to read/write transactions
+* `main.go` - start here, defines service endpoints
+* `mixer/mixer.go` - main logic for the `/getDepositAddressForMixing` endpoint
+* `jobcoin_gateway/jobcoin_gateway.go` - contains functions to interact with the Jobcoin API to read/write transactions
 
 ## Commands
 
